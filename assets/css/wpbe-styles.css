@@ -1,0 +1,182 @@
+body.settings_page_wpbe_settings_page {
+   background: #f0f0f1;
+   overflow-y: scroll;
+}
+
+body.settings_page_wpbe_settings_page #version {
+   float: right;
+}
+
+.settings_page_wpbe_settings_page form {
+   margin-top: 1rem;
+}
+
+.settings_page_wpbe_settings_page form h2 {
+   display: flex;
+   align-items: center;
+   margin: 0 0 0.25rem 0;
+   padding: 10px;
+   background: #FAF9F6;
+   border: 1px solid #e2e4e7;
+   border-left-color: #72aee6;
+   border-left-width: 4px;
+   box-shadow: 0 1px 1px rgba(0, 0, 0, .04);
+   transition: margin-top 0.3s ease-in-out;
+}
+
+.settings_page_wpbe_settings_page form h2 span {
+   flex: 1;
+}
+
+.settings_page_wpbe_settings_page form h2:hover {
+   cursor: pointer;
+}
+
+.settings_page_wpbe_settings_page form h2.animate-margin-top {
+   margin-top: 2rem;
+   transition: margin-top 0.3s ease-in-out;
+}
+
+.settings_page_wpbe_settings_page form h2 .section-head-icon {
+   transition: transform 0.3s ease-in-out;
+   transform: rotate(0deg);
+   color: #Fff;
+   background: #2271b1;
+   border-radius: 100%;
+}
+
+.settings_page_wpbe_settings_page form h2 .section-head-icon.rotate-icon {
+   transition: transform 0.3s ease-in-out;
+   transform: rotate(45deg);
+   color: #Fff;
+   background: #F00;
+}
+
+/* Input field style */
+.settings_page_wpbe_settings_page form input {
+   padding: 10px;
+   border: 1px solid #ccc;
+   border-radius: 5px;
+   font-size: 16px;
+   outline: none;
+   background-color: #f5f5f5;
+}
+
+.settings_page_wpbe_settings_page form input:focus {
+   border-color: #66afe9;
+   box-shadow: 0 0 5px rgba(102, 175, 233, 0.5);
+   background-color: #fff;
+}
+
+/* Style for the Form Table */
+.settings_page_wpbe_settings_page .form-table {
+   position: absolute;
+   left: -9999px;
+   opacity: 0;
+   visibility: hidden;
+   border-collapse: collapse;
+   width: 100%;
+   margin: 0 0 2rem 0;
+   transition: visibility 1.0s ease, opacity 1.0s ease;
+}
+
+.settings_page_wpbe_settings_page .form-table.show-table {
+   position: static;
+   left: auto;
+   opacity: 1;
+   visibility: visible;
+   transition: visibility 1.0s ease, opacity 1.0s ease;
+}
+
+.settings_page_wpbe_settings_page .form-table tr {
+   margin: 0 0 .25rem 0;
+   display: flex;
+   align-items: center;
+   border: 1px solid #e2e4e7;
+   border-left-color: #72aee6;
+   border-left-width: 2px;
+   background-color: #FFF;
+}
+
+.settings_page_wpbe_settings_page .form-table th,
+.settings_page_wpbe_settings_page .form-table td {
+   display: flex;
+   flex-direction: column;
+   margin: 0;
+   padding: 8px 15px;
+   text-align: left;
+   font-size: 14px;
+   flex: 1;
+}
+
+.settings_page_wpbe_settings_page .form-table th {
+   padding: 0 15px;
+   font-weight: 400;
+   color: #222;
+}
+
+.settings_page_wpbe_settings_page .form-table td {
+   align-items: flex-end;
+   justify-content: flex-end;
+}
+
+.settings_page_wpbe_settings_page .form-table th span {
+   padding: 10px 0 0 0;
+   font-weight: 700;
+}
+
+.settings_page_wpbe_settings_page .form-table td input,
+.settings_page_wpbe_settings_page .form-table td .wp-editor-wrap {
+   width: 100%;
+}
+
+.settings_page_wpbe_settings_page .form-table td input#wpbe_wp_rest_api_whitelist {
+   margin-top: 0.5rem;
+}
+
+/* Style for the Checkbox toggle */
+.settings_page_wpbe_settings_page .switch {
+   position: relative;
+   display: inline-block;
+   width: 60px;
+   height: 30px;
+}
+
+.settings_page_wpbe_settings_page .switch input {
+   opacity: 0;
+   width: 0;
+   height: 0;
+}
+
+.settings_page_wpbe_settings_page .slider {
+   position: absolute;
+   cursor: pointer;
+   top: 0;
+   left: 0;
+   right: 0;
+   bottom: 0;
+   background-color: #CCC;
+   border-radius: 15px;
+   transition: .4s;
+}
+
+.settings_page_wpbe_settings_page .slider:before {
+   content: '';
+   position: absolute;
+   width: 26px;
+   height: 26px;
+   border-radius: 50%;
+   top: 2px;
+   left: 4.5px;
+   background-color: #fff;
+   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+   transition: all 0.3s ease-in-out;
+}
+
+.settings_page_wpbe_settings_page input:checked+.slider {
+   background-color: #5aa9de;
+}
+
+.settings_page_wpbe_settings_page input:checked+.slider:before {
+   transform: translateX(25px);
+}

@@ -1,0 +1,406 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Basic Elements\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-08-22 20:44+0000\n"
+"PO-Revision-Date: 2023-04-07 18:38+0000\n"
+"Last-Translator: \n"
+"Language-Team: Norwegian (Bokmål)\n"
+"Language: nb_NO\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.4; wp-6.2"
+
+#: inc/settings-sections/class-wpbe-settings-admin-dashboard.php:42
+msgid "Admin Dashboard"
+msgstr "Admin Kontrollpanel"
+
+#: inc/settings-sections/class-wpbe-settings-admin-footer.php:42
+#| msgid "Admin footer"
+msgid "Admin Footer"
+msgstr "Admin Footer"
+
+#: inc/settings-sections/class-wpbe-settings-admin-toolbar.php:42
+#| msgid "Admin toolbar"
+msgid "Admin Toolbar"
+msgstr "Admin Verktøylinje"
+
+#: inc/settings-sections/class-wpbe-settings-mail.php:58
+msgid ""
+"Change mail adress <strong>(wordpress@mysite.com)</strong> sent to users"
+msgstr ""
+"Endre e-postadresse <strong>(wordpress@mysite.com)</strong> sendt til brukere"
+
+#: inc/settings-sections/class-wpbe-settings-mail.php:57
+msgid "Change mail name <strong>(WordPress)</strong> sent to users to your own"
+msgstr ""
+"Endre e-postnavn <strong>(WordPress)</strong> sendt til brukere til din egen"
+
+#: inc/settings-sections/class-wpbe-settings-admin-footer.php:57
+msgid "Change the default left footer text to what you want."
+msgstr "Endre standard venstre tekst til det du vil ha."
+
+#: inc/settings-sections/class-wpbe-settings-admin-footer.php:58
+msgid "Change the default right footer text to what you want."
+msgstr "Endre standard  høyre tekst til det du vil ha."
+
+#: inc/settings-sections/class-wpbe-settings-core.php:42
+msgid "Core"
+msgstr "Kjerne"
+
+#. Author of the plugin
+msgid "Damir Calusic"
+msgstr "Damir Calusic"
+
+#: inc/settings-sections/class-wpbe-settings-admin-dashboard.php:59
+msgid "Disable Activity"
+msgstr "Deaktiver Aktivitet"
+
+#: inc/settings-sections/class-wpbe-settings-admin-dashboard.php:58
+msgid "Disable At a Glance"
+msgstr "Deaktiver Oversikt"
+
+#: inc/settings-sections/class-wpbe-settings-core.php:64
+msgid "Disable automatic updates of Plugins"
+msgstr "Deaktiver automatiske oppdateringer av Plugins"
+
+#: inc/settings-sections/class-wpbe-settings-core.php:63
+msgid "Disable automatic updates of Themes"
+msgstr "Deaktiver automatiske oppdateringer av  Teman"
+
+#: inc/settings-sections/class-wpbe-settings-core.php:62
+msgid "Disable automatic updates of WordPress, Themes and Plugins"
+msgstr "Deaktiver automatiske oppdateringer av WordPress, Teman og Plugins"
+
+#: inc/settings-sections/class-wpbe-settings-admin-dashboard.php:65
+msgid "Disable bbPress right now"
+msgstr "Deaktiver bbPress akkurat nå"
+
+#: inc/settings-sections/class-wpbe-settings-head.php:67
+msgid "Disable Block styling"
+msgstr "Deaktiver Blokk styling"
+
+#: inc/settings-sections/class-wpbe-settings-head.php:69
+msgid "Disable Canonical link"
+msgstr "Deaktiver Kanonikal lenken"
+
+#: inc/settings-sections/class-wpbe-settings-profile.php:62
+msgid "Disable Color Scheme selector for users"
+msgstr "Deaktiver Fargeskjemavelger for brukere"
+
+#: inc/settings-sections/class-wpbe-settings-gutenberg.php:61
+msgid "Disable Distraction free mode"
+msgstr "Deaktiver Distraksjonsfri modus"
+
+#: inc/settings-sections/class-wpbe-settings-head.php:63
+msgid "Disable EditURI link"
+msgstr "Deaktiver EditURI lenken"
+
+#: inc/settings-sections/class-wpbe-settings-head.php:61
+msgid "Disable Emoji icons if not in use."
+msgstr "Deaktiver Emoji-ikoner hvis de ikke er i bruk."
+
+#: inc/settings-sections/class-wpbe-settings-profile.php:63
+msgid "Disable Facebook field from users contact field"
+msgstr "Deaktiver Facebook feltet fra brukerens kontaktfelt"
+
+#: inc/settings-sections/class-wpbe-settings-gutenberg.php:60
+#| msgid "Disable Fullscreen Mode"
+msgid "Disable Fullscreen mode"
+msgstr "Deaktiver Fullskjerm"
+
+#: inc/settings-sections/class-wpbe-settings-head.php:65
+msgid "Disable Index link"
+msgstr "Deaktiver indekskobling"
+
+#: inc/settings-sections/class-wpbe-settings-profile.php:64
+msgid "Disable Instagram field from users contact field"
+msgstr "Deaktiver Instagram feltet fra brukerens kontaktfelt"
+
+#: inc/settings-sections/class-wpbe-settings-profile.php:59
+msgid "Disable keyboard shortcuts selector for comment moderation"
+msgstr ""
+"Deaktiver tastatursnarveier valget for kommentarmoderasjon for brukeren"
+
+#: inc/settings-sections/class-wpbe-settings-profile.php:61
+msgid "Disable language chooser for users"
+msgstr "Deaktiver språk velger"
+
+#: inc/settings-sections/class-wpbe-settings-profile.php:65
+msgid "Disable LinkedIn field from users contact field"
+msgstr "Deaktiver LinkedIn feltet fra brukerens kontaktfelt"
+
+#: inc/settings-sections/class-wpbe-settings-head.php:68
+msgid "Disable meta generator tags"
+msgstr "Deaktiver meta generator tagger"
+
+#: inc/settings-sections/class-wpbe-settings-profile.php:66
+msgid "Disable MySpace field from users contact field"
+msgstr "Deaktiver MySpace feltet fra brukerens kontaktfelt"
+
+#: inc/settings-sections/class-wpbe-settings-profile.php:67
+msgid "Disable Pinterest field from users contact field"
+msgstr "Deaktiver Pinterest feltet fra brukerens kontaktfelt"
+
+#: inc/settings-sections/class-wpbe-settings-core.php:60
+msgid "Disable plugin and theme file edit permission in admin for users"
+msgstr "Deaktiver utvidelse og temafil redigering i admin for brukere"
+
+#: inc/settings-sections/class-wpbe-settings-head.php:62
+msgid "Disable Post, Comment and Category feeds"
+msgstr "Deaktiver Inlegg, Kommentar og Kategori feeds"
+
+#: inc/settings-sections/class-wpbe-settings-admin-dashboard.php:60
+msgid "Disable Quick Draft"
+msgstr "Deaktiver Hurtig Utkast"
+
+#: inc/settings-sections/class-wpbe-settings-head.php:66
+msgid "Disable Relational links for the Posts"
+msgstr "Deaktiver relasjonskoblinger for innleggene"
+
+#: inc/settings-sections/class-wpbe-settings-profile.php:68
+msgid "Disable SoundCloud field from users contact field"
+msgstr "Deaktiver SoundCloud feltet fra brukerens kontaktfelt"
+
+#: inc/settings-sections/class-wpbe-settings-gutenberg.php:59
+msgid "Disable Spotlight mode"
+msgstr "Deaktiver Rampelys modus"
+
+#: inc/settings-sections/class-wpbe-settings-profile.php:58
+msgid "Disable syntax highlighting selector when editing code"
+msgstr "Deaktiver syntaksutheving valget ved koderedigering for brukeren"
+
+#: inc/settings-sections/class-wpbe-settings-core.php:67
+msgid "Disable the comments system"
+msgstr "Deaktiver kommentarsystemet"
+
+#: inc/settings-sections/class-wpbe-settings-profile.php:57
+msgid "Disable the visual editor selector when writing"
+msgstr "Deaktiver visuell tekstredigering valget ved skriving for brukeren"
+
+#: inc/settings-sections/class-wpbe-settings-profile.php:60
+msgid "Disable toolbar selector when viewing site"
+msgstr "Deaktiver verktøylinjen valget når du ser på nettstedet"
+
+#: inc/settings-sections/class-wpbe-settings-gutenberg.php:58
+msgid "Disable Top toolbar mode"
+msgstr "Deaktiver Verktøylinje på toppen"
+
+#: inc/settings-sections/class-wpbe-settings-profile.php:69
+msgid "Disable Tumblr field from users contact field"
+msgstr "Deaktiver Tumblr feltet fra brukerens kontaktfelt"
+
+#: inc/settings-sections/class-wpbe-settings-profile.php:70
+msgid "Disable Twitter field from users contact field"
+msgstr "Deaktiver Twitter feltet fra brukerens kontaktfelt"
+
+#. Description of the plugin
+msgid ""
+"Disable unnecessary features and speed up your site. Make the WP Admin "
+"simple and clean."
+msgstr ""
+"Deaktiver unødvendige funksjoner og øk hastigheten på nettstedet ditt. Gjør "
+"WP Admin enkel og ren."
+
+#: inc/settings-sections/class-wpbe-settings-profile.php:73
+msgid "Disable Website field from users contact field"
+msgstr "Deaktiver Nettsted feltet fra brukerens kontaktfelt"
+
+#: inc/settings-sections/class-wpbe-settings-gutenberg.php:57
+msgid "Disable Welcome Guide"
+msgstr "Deaktiver velkomstguiden"
+
+#: inc/settings-sections/class-wpbe-settings-admin-dashboard.php:57
+msgid "Disable Welcome to WordPress"
+msgstr "Deaktiver Velkommen til WordPress!"
+
+#: inc/settings-sections/class-wpbe-settings-profile.php:72
+msgid "Disable WikiPedia field from users contact field"
+msgstr "Deaktiver WikiPedia feltet fra brukerens kontaktfelt"
+
+#: inc/settings-sections/class-wpbe-settings-head.php:64
+msgid "Disable Windows Live Writer Manifest File"
+msgstr "Deaktiver Windows Live Writer Manifest filen"
+
+#: inc/settings-sections/class-wpbe-settings-admin-dashboard.php:63
+msgid "Disable WooCommerce recent reviews"
+msgstr "Deaktiver WooCommerce siste vurderinger"
+
+#: inc/settings-sections/class-wpbe-settings-admin-dashboard.php:64
+msgid "Disable WooCommerce status"
+msgstr "Deaktiver WooCommerce status"
+
+#: inc/settings-sections/class-wpbe-settings-admin-dashboard.php:61
+msgid "Disable WordPress Events and News"
+msgstr "Deaktiver WordPress-arrangementer og -nyheter"
+
+#: inc/settings-sections/class-wpbe-settings-core.php:61
+msgid "Disable WordPress, plugin and themes from updates in admin."
+msgstr "Deaktiver WordPress, plugin og temaer fra oppdateringer i admin."
+
+#: inc/settings-sections/class-wpbe-settings-admin-toolbar.php:60
+msgid "Disable WP Comments"
+msgstr "Deaktiver WP Kommentarer"
+
+#: inc/settings-sections/class-wpbe-settings-core.php:58
+msgid "Disable WP Cron"
+msgstr "Deaktiver WP Cron"
+
+#: inc/settings-sections/class-wpbe-settings-admin-toolbar.php:58
+msgid "Disable WP Customize"
+msgstr "Deaktiver WP Tilpass"
+
+#: inc/settings-sections/class-wpbe-settings-admin-toolbar.php:63
+msgid "Disable WP Edit"
+msgstr "Deaktiver WP Rediger"
+
+#: inc/settings-sections/class-wpbe-settings-core.php:66
+msgid "Disable WP Embed scripts"
+msgstr "Deaktiver inbeddnings skript"
+
+#: inc/settings-sections/class-wpbe-settings-admin-toolbar.php:57
+msgid "Disable WP Logo"
+msgstr "Deaktiver WP Logo"
+
+#: inc/settings-sections/class-wpbe-settings-admin-toolbar.php:64
+msgid "Disable WP New Content"
+msgstr "Disable WP Nytt innehold"
+
+#: inc/settings-sections/class-wpbe-settings-head.php:58
+msgid "Disable WP Oembed discovery links"
+msgstr "Deaktiver WP Oembed discovery linker"
+
+#: inc/settings-sections/class-wpbe-settings-head.php:60
+msgid "Disable WP Pingbacks / Trackbacks"
+msgstr "Deaktiver WP Pingbacks / Trackbacks"
+
+#: inc/settings-sections/class-wpbe-settings-core.php:65
+msgid "Disable WP Rest API for non loggedin users"
+msgstr "Deaktiver WP Rest API for brukere som ikke er pålogget"
+
+#: inc/settings-sections/class-wpbe-settings-head.php:57
+msgid "Disable WP Rest API links"
+msgstr "Deaktiver WP Rest API lenker"
+
+#: inc/settings-sections/class-wpbe-settings-admin-toolbar.php:61
+msgid "Disable WP Search"
+msgstr "Deaktiver WP Søk"
+
+#: inc/settings-sections/class-wpbe-settings-head.php:59
+msgid "Disable WP shortlink"
+msgstr "Deaktiver WP shortlink"
+
+#: inc/settings-sections/class-wpbe-settings-admin-toolbar.php:62
+msgid "Disable WP Sitename"
+msgstr "Deaktiver WP Nettsted navn"
+
+#: inc/settings-sections/class-wpbe-settings-admin-toolbar.php:59
+msgid "Disable WP Updates"
+msgstr "Deaktiver WP Oppdateringer"
+
+#: inc/settings-sections/class-wpbe-settings-admin-toolbar.php:65
+msgid "Disable Yoast SEO in toolbar menu"
+msgstr "Deaktiver Yoast SEO i administrasjonsverktøyet"
+
+#: inc/settings-sections/class-wpbe-settings-admin-dashboard.php:62
+msgid "Disable Yoast SEO Posts Overview"
+msgstr "Deaktiver Yoast SEO inlegg overblikk"
+
+#: inc/settings-sections/class-wpbe-settings-profile.php:71
+msgid "Disable YouTube field from users contact field"
+msgstr "Deaktiver Youtube feltet fra brukerens kontaktfelt"
+
+#: wp-basic-elements.php:100 wp-basic-elements.php:147
+msgid "Donate (Patreon)"
+msgstr "Doner (Patreon)"
+
+#: wp-basic-elements.php:99 wp-basic-elements.php:146
+msgid "Donate (Paypal)"
+msgstr "Doner (Paypal)"
+
+#: inc/settings-sections/class-wpbe-settings-core.php:57
+msgid "Enable GZIP Compression"
+msgstr "Aktiver GZIP-komprimering"
+
+#: inc/settings-sections/class-wpbe-settings-core.php:59
+msgid "Enable removal of saved edits of images to save space on server"
+msgstr ""
+"Aktiver fjerning av lagrede redigeringer av bilder for å spare plass på "
+"serveren"
+
+#: inc/settings-sections/class-wpbe-settings-core.php:68
+msgid "Enable shortcode in manual excerpts"
+msgstr "Aktiver kortkod i manuelle utdrag"
+
+#: inc/settings-sections/class-wpbe-settings-gutenberg.php:42
+msgid "Gutenberg"
+msgstr "Gutenberg"
+
+#: inc/settings-sections/class-wpbe-settings-head.php:42
+msgid "Head"
+msgstr "Hode"
+
+#. URI of the plugin
+msgid "https://wordpress.org/plugins/wp-basic-elements/"
+msgstr "https://wordpress.org/plugins/wp-basic-elements/"
+
+#. Author URI of the plugin
+msgid "https://www.damircalusic.com/"
+msgstr "https://www.damircalusic.com/"
+
+#: inc/settings-sections/class-wpbe-settings-mail.php:42
+msgid "Mail"
+msgstr "E-post"
+
+#: inc/settings-render/class-wpbe-render-core.php:182
+msgid "REST API restricted to authenticated users."
+msgstr "REST API begrenset til autentiserte brukere."
+
+#: wp-basic-elements.php:156
+msgid "Save settings"
+msgstr "Lagre innstillinger"
+
+#: wp-basic-elements.php:98
+msgid "Settings"
+msgstr "Instillinger"
+
+#: inc/settings-sections/class-wpbe-settings-profile.php:42
+msgid "User profile"
+msgstr "Brukerprofil"
+
+#: inc/settings-sections/class-wpbe-settings-core.php:65
+msgid ""
+"Whitelist namespaces by comma separation in the text field so they can "
+"access WP Rest API"
+msgstr ""
+"Godkjenn namespaces med komma adskillelse slik at de får tilgang til WP Rest "
+"API"
+
+#: wp-basic-elements.php:151
+msgid ""
+"With WP Basic Elements you can disable unnecessary features and speed up "
+"your site. Make the WP Admin simple and clean. You can change admin footers "
+"in backend, activate shortcodes in widgets, remove admin toolbar options and "
+"you can clean the code markup from unnecessary code snippets like WordPress "
+"generator meta tag and a bunch of other non important code snippets in the "
+"code. Cleaning the code markup will speed up your sites loadtime and "
+"increase the overall performance."
+msgstr ""
+"Med WP Basic Elements kan du deaktivere unødvendige funksjoner og øke "
+"hastigheten på nettstedet ditt. Gjør WP Admin enkel og ren.  Du kan endre "
+"admin footers i backend, aktivere kortkod i widgets, fjerne admin "
+"verktøylinje alternativer og du kan rengjøre kodeoppslaget fra unødvendige "
+"kodestykker som WordPress generator meta tagger og en haug med andre ikke-"
+"viktige kodestykker i koden. Rengjøring av kodeoppslaget vil øke hastigheten "
+"på nettstedene dine og øke ytelsen."
+
+#. Name of the plugin
+msgid "WP Basic Elements"
+msgstr "WP Basic Elements"
+
+#: wp-basic-elements.php:130
+msgid "WPB Elements"
+msgstr "WPB Elements"

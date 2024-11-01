@@ -1,0 +1,388 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Basic Elements\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-04-07 18:33+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.2.0; wp-5.1"
+
+#: inc/settings-sections/class-wpbe-settings-admin-dashboard.php:42
+msgid "Admin Dashboard"
+msgstr ""
+
+#: inc/settings-sections/class-wpbe-settings-admin-footer.php:42
+msgid "Admin Footer"
+msgstr ""
+
+#: inc/settings-sections/class-wpbe-settings-admin-toolbar.php:42
+msgid "Admin Toolbar"
+msgstr ""
+
+#: inc/settings-sections/class-wpbe-settings-mail.php:58
+msgid ""
+"Change mail adress <strong>(wordpress@mysite.com)</strong> sent to users"
+msgstr ""
+
+#: inc/settings-sections/class-wpbe-settings-mail.php:57
+msgid "Change mail name <strong>(WordPress)</strong> sent to users to your own"
+msgstr ""
+
+#: inc/settings-sections/class-wpbe-settings-admin-footer.php:57
+msgid "Change the default left footer text to what you want."
+msgstr ""
+
+#: inc/settings-sections/class-wpbe-settings-admin-footer.php:58
+msgid "Change the default right footer text to what you want."
+msgstr ""
+
+#: inc/settings-sections/class-wpbe-settings-core.php:42
+msgid "Core"
+msgstr ""
+
+#. Author of the plugin
+msgid "Damir Calusic"
+msgstr ""
+
+#: inc/settings-sections/class-wpbe-settings-admin-dashboard.php:59
+msgid "Disable Activity"
+msgstr ""
+
+#: inc/settings-sections/class-wpbe-settings-admin-dashboard.php:58
+msgid "Disable At a Glance"
+msgstr ""
+
+#: inc/settings-sections/class-wpbe-settings-core.php:64
+msgid "Disable automatic updates of Plugins"
+msgstr ""
+
+#: inc/settings-sections/class-wpbe-settings-core.php:63
+msgid "Disable automatic updates of Themes"
+msgstr ""
+
+#: inc/settings-sections/class-wpbe-settings-core.php:62
+msgid "Disable automatic updates of WordPress, Themes and Plugins"
+msgstr ""
+
+#: inc/settings-sections/class-wpbe-settings-admin-dashboard.php:65
+msgid "Disable bbPress right now"
+msgstr ""
+
+#: inc/settings-sections/class-wpbe-settings-head.php:67
+msgid "Disable Block styling"
+msgstr ""
+
+#: inc/settings-sections/class-wpbe-settings-head.php:69
+msgid "Disable Canonical link"
+msgstr ""
+
+#: inc/settings-sections/class-wpbe-settings-profile.php:62
+msgid "Disable Color Scheme selector for users"
+msgstr ""
+
+#: inc/settings-sections/class-wpbe-settings-gutenberg.php:61
+msgid "Disable Distraction free mode"
+msgstr ""
+
+#: inc/settings-sections/class-wpbe-settings-head.php:63
+msgid "Disable EditURI link"
+msgstr ""
+
+#: inc/settings-sections/class-wpbe-settings-head.php:61
+msgid "Disable Emoji icons if not in use."
+msgstr ""
+
+#: inc/settings-sections/class-wpbe-settings-profile.php:63
+msgid "Disable Facebook field from users contact field"
+msgstr ""
+
+#: inc/settings-sections/class-wpbe-settings-gutenberg.php:60
+msgid "Disable Fullscreen mode"
+msgstr ""
+
+#: inc/settings-sections/class-wpbe-settings-head.php:65
+msgid "Disable Index link"
+msgstr ""
+
+#: inc/settings-sections/class-wpbe-settings-profile.php:64
+msgid "Disable Instagram field from users contact field"
+msgstr ""
+
+#: inc/settings-sections/class-wpbe-settings-profile.php:59
+msgid "Disable keyboard shortcuts selector for comment moderation"
+msgstr ""
+
+#: inc/settings-sections/class-wpbe-settings-profile.php:61
+msgid "Disable language chooser for users"
+msgstr ""
+
+#: inc/settings-sections/class-wpbe-settings-profile.php:65
+msgid "Disable LinkedIn field from users contact field"
+msgstr ""
+
+#: inc/settings-sections/class-wpbe-settings-head.php:68
+msgid "Disable meta generator tags"
+msgstr ""
+
+#: inc/settings-sections/class-wpbe-settings-profile.php:66
+msgid "Disable MySpace field from users contact field"
+msgstr ""
+
+#: inc/settings-sections/class-wpbe-settings-profile.php:67
+msgid "Disable Pinterest field from users contact field"
+msgstr ""
+
+#: inc/settings-sections/class-wpbe-settings-core.php:60
+msgid "Disable plugin and theme file edit permission in admin for users"
+msgstr ""
+
+#: inc/settings-sections/class-wpbe-settings-head.php:62
+msgid "Disable Post, Comment and Category feeds"
+msgstr ""
+
+#: inc/settings-sections/class-wpbe-settings-admin-dashboard.php:60
+msgid "Disable Quick Draft"
+msgstr ""
+
+#: inc/settings-sections/class-wpbe-settings-head.php:66
+msgid "Disable Relational links for the Posts"
+msgstr ""
+
+#: inc/settings-sections/class-wpbe-settings-profile.php:68
+msgid "Disable SoundCloud field from users contact field"
+msgstr ""
+
+#: inc/settings-sections/class-wpbe-settings-gutenberg.php:59
+msgid "Disable Spotlight mode"
+msgstr ""
+
+#: inc/settings-sections/class-wpbe-settings-profile.php:58
+msgid "Disable syntax highlighting selector when editing code"
+msgstr ""
+
+#: inc/settings-sections/class-wpbe-settings-core.php:67
+msgid "Disable the comments system"
+msgstr ""
+
+#: inc/settings-sections/class-wpbe-settings-profile.php:57
+msgid "Disable the visual editor selector when writing"
+msgstr ""
+
+#: inc/settings-sections/class-wpbe-settings-profile.php:60
+msgid "Disable toolbar selector when viewing site"
+msgstr ""
+
+#: inc/settings-sections/class-wpbe-settings-gutenberg.php:58
+msgid "Disable Top toolbar mode"
+msgstr ""
+
+#: inc/settings-sections/class-wpbe-settings-profile.php:69
+msgid "Disable Tumblr field from users contact field"
+msgstr ""
+
+#: inc/settings-sections/class-wpbe-settings-profile.php:70
+msgid "Disable Twitter field from users contact field"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Disable unnecessary features and speed up your site. Make the WP Admin "
+"simple and clean."
+msgstr ""
+
+#: inc/settings-sections/class-wpbe-settings-profile.php:73
+msgid "Disable Website field from users contact field"
+msgstr ""
+
+#: inc/settings-sections/class-wpbe-settings-gutenberg.php:57
+msgid "Disable Welcome Guide"
+msgstr ""
+
+#: inc/settings-sections/class-wpbe-settings-admin-dashboard.php:57
+msgid "Disable Welcome to WordPress"
+msgstr ""
+
+#: inc/settings-sections/class-wpbe-settings-profile.php:72
+msgid "Disable WikiPedia field from users contact field"
+msgstr ""
+
+#: inc/settings-sections/class-wpbe-settings-head.php:64
+msgid "Disable Windows Live Writer Manifest File"
+msgstr ""
+
+#: inc/settings-sections/class-wpbe-settings-admin-dashboard.php:63
+msgid "Disable WooCommerce recent reviews"
+msgstr ""
+
+#: inc/settings-sections/class-wpbe-settings-admin-dashboard.php:64
+msgid "Disable WooCommerce status"
+msgstr ""
+
+#: inc/settings-sections/class-wpbe-settings-admin-dashboard.php:61
+msgid "Disable WordPress Events and News"
+msgstr ""
+
+#: inc/settings-sections/class-wpbe-settings-core.php:61
+msgid "Disable WordPress, plugin and themes from updates in admin."
+msgstr ""
+
+#: inc/settings-sections/class-wpbe-settings-admin-toolbar.php:60
+msgid "Disable WP Comments"
+msgstr ""
+
+#: inc/settings-sections/class-wpbe-settings-core.php:58
+msgid "Disable WP Cron"
+msgstr ""
+
+#: inc/settings-sections/class-wpbe-settings-admin-toolbar.php:58
+msgid "Disable WP Customize"
+msgstr ""
+
+#: inc/settings-sections/class-wpbe-settings-admin-toolbar.php:63
+msgid "Disable WP Edit"
+msgstr ""
+
+#: inc/settings-sections/class-wpbe-settings-core.php:66
+msgid "Disable WP Embed scripts"
+msgstr ""
+
+#: inc/settings-sections/class-wpbe-settings-admin-toolbar.php:57
+msgid "Disable WP Logo"
+msgstr ""
+
+#: inc/settings-sections/class-wpbe-settings-admin-toolbar.php:64
+msgid "Disable WP New Content"
+msgstr ""
+
+#: inc/settings-sections/class-wpbe-settings-head.php:58
+msgid "Disable WP Oembed discovery links"
+msgstr ""
+
+#: inc/settings-sections/class-wpbe-settings-head.php:60
+msgid "Disable WP Pingbacks / Trackbacks"
+msgstr ""
+
+#: inc/settings-sections/class-wpbe-settings-core.php:65
+msgid "Disable WP Rest API for non loggedin users"
+msgstr ""
+
+#: inc/settings-sections/class-wpbe-settings-head.php:57
+msgid "Disable WP Rest API links"
+msgstr ""
+
+#: inc/settings-sections/class-wpbe-settings-admin-toolbar.php:61
+msgid "Disable WP Search"
+msgstr ""
+
+#: inc/settings-sections/class-wpbe-settings-head.php:59
+msgid "Disable WP shortlink"
+msgstr ""
+
+#: inc/settings-sections/class-wpbe-settings-admin-toolbar.php:62
+msgid "Disable WP Sitename"
+msgstr ""
+
+#: inc/settings-sections/class-wpbe-settings-admin-toolbar.php:59
+msgid "Disable WP Updates"
+msgstr ""
+
+#: inc/settings-sections/class-wpbe-settings-admin-toolbar.php:65
+msgid "Disable Yoast SEO in toolbar menu"
+msgstr ""
+
+#: inc/settings-sections/class-wpbe-settings-admin-dashboard.php:62
+msgid "Disable Yoast SEO Posts Overview"
+msgstr ""
+
+#: inc/settings-sections/class-wpbe-settings-profile.php:71
+msgid "Disable YouTube field from users contact field"
+msgstr ""
+
+#: wp-basic-elements.php:100 wp-basic-elements.php:147
+msgid "Donate (Patreon)"
+msgstr ""
+
+#: wp-basic-elements.php:99 wp-basic-elements.php:146
+msgid "Donate (Paypal)"
+msgstr ""
+
+#: inc/settings-sections/class-wpbe-settings-core.php:57
+msgid "Enable GZIP Compression"
+msgstr ""
+
+#: inc/settings-sections/class-wpbe-settings-core.php:59
+msgid "Enable removal of saved edits of images to save space on server"
+msgstr ""
+
+#: inc/settings-sections/class-wpbe-settings-core.php:68
+msgid "Enable shortcode in manual excerpts"
+msgstr ""
+
+#: inc/settings-sections/class-wpbe-settings-gutenberg.php:42
+msgid "Gutenberg"
+msgstr ""
+
+#: inc/settings-sections/class-wpbe-settings-head.php:42
+msgid "Head"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://wordpress.org/plugins/wp-basic-elements/"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://www.damircalusic.com/"
+msgstr ""
+
+#: inc/settings-sections/class-wpbe-settings-mail.php:42
+msgid "Mail"
+msgstr ""
+
+#: inc/settings-render/class-wpbe-render-core.php:182
+msgid "REST API restricted to authenticated users."
+msgstr ""
+
+#: wp-basic-elements.php:156
+msgid "Save settings"
+msgstr ""
+
+#: wp-basic-elements.php:98
+msgid "Settings"
+msgstr ""
+
+#: inc/settings-sections/class-wpbe-settings-profile.php:42
+msgid "User profile"
+msgstr ""
+
+#: inc/settings-sections/class-wpbe-settings-core.php:65
+msgid ""
+"Whitelist namespaces by comma separation in the text field so they can "
+"access WP Rest API"
+msgstr ""
+
+#: wp-basic-elements.php:151
+msgid ""
+"With WP Basic Elements you can disable unnecessary features and speed up "
+"your site. Make the WP Admin simple and clean. You can change admin footers "
+"in backend, activate shortcodes in widgets, remove admin toolbar options and "
+"you can clean the code markup from unnecessary code snippets like WordPress "
+"generator meta tag and a bunch of other non important code snippets in the "
+"code. Cleaning the code markup will speed up your sites loadtime and "
+"increase the overall performance."
+msgstr ""
+
+#. Name of the plugin
+msgid "WP Basic Elements"
+msgstr ""
+
+#: wp-basic-elements.php:130
+msgid "WPB Elements"
+msgstr ""
